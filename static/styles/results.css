@@ -1,0 +1,17 @@
+#weatherResults { 
+    background-color:mediumturquoise;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    margin: 10px;
+    border-radius: 10px;
+    border-width: 20;
+    border-style: ridge;
+    border-color: darkgreen;
+}
+
+body {
+    background-color: lightblue;
+  }

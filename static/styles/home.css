@@ -1,0 +1,39 @@
+h2 { 
+    padding: 20px;
+    display: flex;
+    justify-content: center; 
+}
+
+.weatherText { 
+    font-family:monospace; 
+    font-size: 24px;
+    display: flex;
+    justify-content: center; 
+    border-color:indigo;
+
+}
+
+#weatherForm { 
+    padding: 10px;
+    justify-content: center; 
+    display: flex;
+    justify-content: center; 
+    color:black;
+}
+
+#weatherSubmit { 
+    color: white;
+    background-color: #fa8072;
+    padding: 5px 10px; 
+    border-radius: 20px;
+    margin-top: 5px;
+    display: inline;
+}
+
+#weatherSubmit:hover { 
+    cursor: pointer;
+}
+
+body {
+    background-color: lightblue;
+}
